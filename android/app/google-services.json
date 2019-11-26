@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "494445101163",
+    "firebase_url": "https://paymentapp-fb2c9.firebaseio.com",
+    "project_id": "paymentapp-fb2c9",
+    "storage_bucket": "paymentapp-fb2c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494445101163:android:eda28d92ec235870edb12e",
+        "android_client_info": {
+          "package_name": "com.kalyan.my_payment_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494445101163-sdkgs2ms0e9i63auk33qhsrt8oproclm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kalyan.my_payment_app",
+            "certificate_hash": "24ad4b9dc589b849e5a5a60622eca9f6e0402806"
+          }
+        },
+        {
+          "client_id": "494445101163-oa43muvic425ctsmi2g6drvkea8fab43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqQzBR4fGJmZ5IfT7-eSLA9D-yT3ew-40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494445101163-oa43muvic425ctsmi2g6drvkea8fab43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
